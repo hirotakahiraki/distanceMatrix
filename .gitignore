@@ -1,0 +1,6 @@
+.DS_Store
+csv/distance_output.csv
+ignore/
+.vscode
+.ipynb_checkpoints
+
